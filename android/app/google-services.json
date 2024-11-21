@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1050150379566",
+    "firebase_url": "https://biometric-voting-machine-cb2f3-default-rtdb.firebaseio.com",
+    "project_id": "biometric-voting-machine-cb2f3",
+    "storage_bucket": "biometric-voting-machine-cb2f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050150379566:android:73539d384e40c63c59bfbf",
+        "android_client_info": {
+          "package_name": "com.example.biometricVotingMachine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC803MPncl2WMtK8PX1oiIlB9xDNTiPWVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050150379566:android:db6601471b23267059bfbf",
+        "android_client_info": {
+          "package_name": "com.example.biometric_voting_machine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC803MPncl2WMtK8PX1oiIlB9xDNTiPWVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
